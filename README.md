@@ -1,5 +1,5 @@
 
-# 📥 The Best Telegram Downloader (CLI) — TBTGdl_v3
+# 📥 TELEFLOW V1.0
 
 A powerful, terminal-based Telegram video downloader built using Python, Telethon, and Rich. Easily scan your chats, select videos (even in ranges), and download them with animated CLI feedback and progress tracking.
 
